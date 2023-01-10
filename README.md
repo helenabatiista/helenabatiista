@@ -3,6 +3,8 @@
 
 Sou apaixonada por agile testing e automação de testes, e sempre buscando cada vez mais conhecimento.
 
+<img align="right" width="350" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/lp-710x510-case-2-illustration.png"/>
+
 :technologist: Linguagens / Tecnologias:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -23,4 +25,4 @@ Sou apaixonada por agile testing e automação de testes, e sempre buscando cada
 <a href="https://www.linkedin.com/in/helena-batista-de-matos-6b7b3b234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D8BFD8a4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4a4&height=120&section=footer"/>
