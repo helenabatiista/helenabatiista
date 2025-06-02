@@ -11,10 +11,9 @@ Tenho sólida experiência em **testes funcionais e automatizados** para aplica�
 
 - **Linguagens:** Python, JavaScript, 
 - **Frameworks de Teste:** Cypress, Selenium, Robot Framework, Cucumber  
-- **Testes Funcionais:** Planejamento, execução e automação em ambientes ágeis (BDD)  
-- **DevOps & CI/CD:** Jenkins, Shell Script  
+- **Testes Funcionais:** Planejamento, execução e automação em ambientes ágeis (BDD)   
 - **Bancos de Dados:** MySQL, SQL Server, 
-- **Outras ferramentas:** Postman, Azure
+- **Outras ferramentas:** Postman, Azure, Jenkins
 
 ### 💡 Destaques
 
