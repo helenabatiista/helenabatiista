@@ -1,14 +1,39 @@
 
 ## Olá! Sou a Helena Batista, bem vindo ao meu Github
 
-Sou apaixonada por agile testing e automação de testes, e sempre buscando cada vez mais conhecimento.
+## 👩‍💻 QA Test Engineer | Desenvolvedora de Testes | Automação | Python | JavaScript
+
+Olá! Sou formada em **Sistemas de Informação** e atuo atualmente como **Desenvolvedora de Testes**, com mais de **2 anos de experiência na área de QA**.
+
+Tenho sólida experiência em **testes funcionais e automatizados** para aplicações **Web, Mobile, Desktop, APIs e Microserviços**. Ao longo da minha carreira, venho trabalhando com as linguagens **Python**, **JavaScript**, focando principalmente na automação de testes com **Cypress**, **Selenium** e **Robot Framework**.
+
+### 🚀 Principais Habilidades
+
+- **Linguagens:** Python, JavaScript, 
+- **Frameworks de Teste:** Cypress, Selenium, Robot Framework, Cucumber  
+- **Testes Funcionais:** Planejamento, execução e automação em ambientes ágeis (BDD)  
+- **DevOps & CI/CD:** Jenkins, Shell Script  
+- **Bancos de Dados:** MySQL, SQL Server, 
+- **Outras ferramentas:** Postman, Azure
+
+### 💡 Destaques
+
+- Projeto recente com **Inteligência Artificial aplicada à automação de testes**  
+- Experiência prática com **Continuous Testing** e Análise de Requisitos
+- Foco em qualidade contínua, melhoria de processos e entrega de soluções robustas  
+- Perfil **detalhista, proativo e colaborativo**
+
+### 🌱 O que você vai encontrar por aqui
+
+Gosto de compartilhar automações de teste, principalmente com **Cypress** e **Selenium**, além de projetos voltados para boas práticas em QA e inovação na área de testes.
+
+
 
 <img align="right" width="350" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/lp-710x510-case-2-illustration.png"/>
 
 :technologist: Linguagens / Tecnologias:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![testinglibrary](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,6 +43,8 @@ Sou apaixonada por agile testing e automação de testes, e sempre buscando cada
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+📫 Vamos nos conectar!  
 
 :speech_balloon: Contatos
 
