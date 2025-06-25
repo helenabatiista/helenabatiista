@@ -3,7 +3,7 @@
 
 ## 👩‍💻 QA Test Engineer | Desenvolvedora de Testes | Automação | Python | JavaScript
 
-Olá! Sou formada em **Sistemas de Informação** e atuo atualmente como **Desenvolvedora de Testes**, com mais de **2 anos de experiência na área de QA**.
+Olá! Estou Formando em **Sistemas de Informação** e atuo atualmente como **Desenvolvedora de Testes**, com mais de **2 anos de experiência na área de QA**.
 
 Tenho sólida experiência em **testes funcionais e automatizados** para aplicações **Web, Mobile, Desktop, APIs e Microserviços**. Ao longo da minha carreira, venho trabalhando com as linguagens **Python**, **JavaScript**, focando principalmente na automação de testes com **Cypress**, **Selenium** e **Robot Framework**.
 
